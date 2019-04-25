@@ -33,6 +33,10 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
+.feature-box p {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .feature-icon {
   max-width: 128px;
   height: 100%;
